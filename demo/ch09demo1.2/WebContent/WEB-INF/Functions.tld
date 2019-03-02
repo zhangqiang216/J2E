@@ -1,0 +1,29 @@
+<taglib
+	version="2.0">
+	<tlib-version>1.0</tlib-version>
+	<function>
+		<name>upper</name>
+		<function-class>com.StrMethods</function-class>
+		<function-signature>java.lang.String upper(java.lang.String)
+		</function-signature>
+	</function>
+	<function>
+		<name>length</name>
+		<function-class>com.StrMethods</function-class>
+		<function-signature>java.lang.int length(java.lang.String)
+		</function-signature>
+	</function>
+
+	<function>
+		<name>Sum</name>
+		<function-class>com.StrMethods</function-class>
+		<function-signature>java.lang.int Sum(java.lang.int,java.lang.int)
+		</function-signature>
+	</function>
+	<function>
+		<name>Reverse</name>
+		<function-class>com.StrMethods</function-class>
+		<function-signature>void Reverse()
+		</function-signature>
+	</function>
+</taglib>
